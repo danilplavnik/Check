@@ -23,6 +23,12 @@ int main()
     cin >> n;
     for (int i = 0; i < n; i++)
         cin >> a[i];
+    for (int i = 0; i < n; i++)
+        cin >> a[i];
+    for (int i = 0; i < n; i++)
+        cin >> a[i];
+    for (int i = 0; i < n; i++)
+        cin >> a[i];
     for (int i = 0; i < 5; i++)
     {
         cin >> x;
